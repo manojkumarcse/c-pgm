@@ -9,6 +9,6 @@ printf("enter the b values are");
 scanf("%d",&b);
 printf("enter the c values are");
 scanf("%d",&c);
-printf("the largest numbers are");
+printf("the largest num are");
 getch();
 }

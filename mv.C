@@ -1,16 +1,13 @@
 #include<stdio.h>
 #include<conio.h>
-main()
+void main()
 {
-int a,b;
+char a;
 clrscr();
-printf("enter the year is");
-scanf("%d",&a);
-printf("the year is leap or not");
-scanf("%d",&b);
-{
-for(i=0;i<n;i++)
-}
-printf("the given year is");
+printf("enter the input ");
+scanf("%c",&a);
+printf("%c is a alphabet",a);
+else
 getch();
 }
+  

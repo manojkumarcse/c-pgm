@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-main()
+void main()
 {
 int a,b;
 clrscr();
@@ -13,3 +13,4 @@ for(i=0;i<n;i++)
 }
 printf("the given year is");
 getch();
+}

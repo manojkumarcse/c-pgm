@@ -4,7 +4,7 @@ void main()
 {
 int a;
 printf("enter word is");
-scanf("%d",&d);
+scanf("%d",&a);
 printf("the word is hello");
 getch();
 }
